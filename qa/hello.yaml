@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: bishwajitsamanta1689/gitops:hellov1.0
+        image: linuxacademycontent/gitops:hellov1.2
